@@ -1,19 +1,17 @@
 # calc
 
-A new Flutter project.
+A Calculator App developed using Flutter.
 
 ## Getting Started
 
-![Calc (2)](https://user-images.githubusercontent.com/71007973/101443316-2ddd4500-3943-11eb-9e34-89e433d073c3.jpg)
+### INITIAL SCREEN 
 
+![Calc (2)](https://user-images.githubusercontent.com/71007973/101444293-32a2f880-3945-11eb-81c6-a8c42f3b0fae.jpg)
 
-This project is a starting point for a Flutter application.
+### RESULT SCREEN
 
-A few resources to get you started if this is your first Flutter project:
+![Calc (3)](https://user-images.githubusercontent.com/71007973/101444279-2dde4480-3945-11eb-9718-25d2a1d2305c.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### ERROR SCREEN
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Calc (1)](https://user-images.githubusercontent.com/71007973/101444289-30d93500-3945-11eb-815c-9a7f655ad256.jpg)
