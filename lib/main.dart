@@ -198,7 +198,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child:Center(child: Text(
         value,
         style: GoogleFonts.lato(
-          textStyle: TextStyle(fontSize: 27,
+          textStyle: TextStyle(fontSize: 30,
             color: fontcolor),
         ),
       ),),
